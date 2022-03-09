@@ -5,15 +5,23 @@ Fine-tuning a pre-trained Transformer with Shakespeare sonnets.
 BEFORE TRAINING:
 
 SEED: Shall I compare thee to a summer day
+
 (0):        .This morning‣, my sister is at work looking for someone who would be best suited to his role as the protagonist of that romantic story! She comes back with much more information about
+
 (1):     her friend before opening us up and putting a
+
 (2):     face in front of me.
 I was about to open my eyes around the girl who had been running through our chest for over 30 minutes, but she seemed very worried that someone somewhere I just
+
 (3):     thought might be hiding inside you like a human
+
 (4):     in the middle of this time frame. Perhaps it's just to give someone that knows what they're doing or is not telling people when their action would go wrong, but can't help believe something
+
 (5):     doesn`t happen here until there are a
+
 (6):     few more issues. We have to create sure that everything will run smoothly, especially when you change the way we use them:
 MIME_VERSION - DANGER = "GOOGL
+
 (7):    Y" MIMITATIONS + HAND
 
 AFTER TRAINING:
