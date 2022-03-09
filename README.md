@@ -27,7 +27,9 @@ MIME_VERSION - DANGER = "GOOGL
 AFTER TRAINING:
 
 POEM 1: (temperature=2.0)
+
 SEED: Shall I compare thee to a summer day
+
 (0):         the sune thy eyes: thou in my sleep, tender light that o's His soul hath his brightness for own eyes shall' th nightt<|endoftext|>
 
 (1):    -th not I. Thy moon thee her twin w be of dim sweet wit your
@@ -46,6 +48,7 @@ SEED: Shall I compare thee to a summer day
 (7):    s I that dark moon's thet he is to th golden red his yellow white long lust- of memory. it in' y: a green her all my shining
 
 POEM 2: (temperature 1.5)
+
 SEED: Shall I compare thee to a summer day
 
 (0):         thy thou the earth, lightest eyes his bright in moon it wine dark sun'
@@ -67,6 +70,7 @@ SEED: Shall I compare thee to a summer day
 (7):    t the lips touch wet flesh to kisse:' red white long bright light my inest kisses dry as softness tw t tenders full of sweet lust she
 
 POEM 3: (temperature=1.0)
+
 SEED: Shall I compare thee to a summer day
 
 (0):         that oft bright and thy own eyes in eye light with th be: O-s love you, for sweet's the his face' His one by<|endoftext|>
