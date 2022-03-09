@@ -28,7 +28,7 @@ AFTER TRAINING:
 
 POEM 1: (temperature=2.0)
 SEED: Shall I compare thee to a summer day
-(0):         the sune thy eyes: thou in my sleep, tender light that o's His soul hath his brightness for own eyes shall' th nightt<|endoftext|>
+(0):         the sune thy eyes: thou in my sleep, tender light that o's His soul hath his brightness for own eyes shall' th nightt<|endoftext|>\n
 (1):    -th not I. Thy moon thee her twin w be of dim sweet wit your
 (2):     thy sun light hath eye his eyes't blood, n t my bright to tender
  red's own black golden<|endoftext|>
